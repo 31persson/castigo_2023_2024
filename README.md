@@ -16,11 +16,9 @@
 (20 minutos) Escribe un programa que muestre por pantalla la lista de los N primeros números primos. Realiza una función que reciba N, devuelve un array conteniendo los N primeros números primos y posteriormente imprima el array en el main.
  
 
-(15 minutos) Escribe un programa que lea un número entero de teclado, lo guarde en una variable, lo envíe a una función que lo descomponga en factores primos, y dicha función devuelva un array que contenga los factores primos. Posteriormente imprima el array en el main. ; por ejemplo 40 = 2 * 2
-* 2 * 5.
+(15 minutos) Escribe un programa que lea un número entero de teclado, lo guarde en una variable, lo envíe a una función que lo descomponga en factores primos, y dicha función devuelva un array que contenga los factores primos. Posteriormente imprima el array en el main. ; por ejemplo 40 = 2 * 2 * 2 * 5.
 
  
-
 (20 minutos) Empleando un array, escribir un programa que pida al usuario números enteros hasta que se introduzca el número 0. A continuación, calcular la media, el mínimo y el máximo de los datos introducidos. Utilice funciones independientes para: a) recibir N números enteros por teclado hasta que el usuario introduzca un 0; b) Calcule la media de los elementos de un array; c) calcule el mínimo de los elementos de un array; y d) Calcule el máximo de los elementos de un array.
  
 
